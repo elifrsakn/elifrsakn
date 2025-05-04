@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elifrsakn" alt="elifrsakn" /></a> </p>
 
-- 🔭 I’m currently working on **Daily Sentimental Analysis**
+- 🔭 I’m currently working on **My Daily Sentimental Analysis App**
 
 - 🌱 I’m currently learning **Fine-tuning, Big Data**
 
