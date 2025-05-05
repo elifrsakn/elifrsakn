@@ -13,7 +13,7 @@
 
 - 👁️ You can visit my recent work **Mental-health Classifier with XAI**
 
-- 💬 Ask me about **Python, Torch, Keras, Tensorflow, Scikit-learn**
+- 💬 Ask me about **Python, Torch, Keras, Tensorflow, Scikit-learn, resNet**
 
 - 📫 How to reach me **elifsakins@gmail.com**
 
